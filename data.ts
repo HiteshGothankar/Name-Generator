@@ -26,7 +26,7 @@ export enum Length {
 export const names: Name[] = [
   {
     id: 1,
-    name: "Laith",
+    name: "David",
     gender: Gender.BOY,
     popularity: Popularity.UNIQUE,
     length: Length.SHORT,
